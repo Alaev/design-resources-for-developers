@@ -1,10 +1,10 @@
 - PR title: `[Resource] -> [Resource Section In Docs]` **Please delete this before submitting, example: `[UI Colors] -> [Colors]`**
 
-# [Resource Name - Rename to your resource]
+# [Resource Name - Edit this line]
 
-Small Description about new added resource
+Small Description about new added resource edit this line
 
-Link: www.linkToResource
+Link: www.linkToResource - edit to resource link
 
 #### Checklist:
 
