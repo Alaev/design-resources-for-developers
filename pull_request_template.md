@@ -1,5 +1,5 @@
 # PR title: `[Resource] -> [Resource Section In Docs]`
-- Please delete before submitting, example: `[UI Colors] -> [Colors]`
+- Please delete lines 1 & 2 before submitting, example: `[UI Colors] -> [Colors]`
 
 # [Resource Name - Rename to your resource]
 
