@@ -1,10 +1,10 @@
-- PR title: `[Resource] -> [Resource Section In Docs]` **Please delete this before submitting, example: `[UI Colors] -> [Colors]`**
+- **Please delete this line before submitting**, _Pull request title should look like this_: `[Resource] -> [Resource Section In Docs]`
 
 # [Resource Name - Edit this line]
 
-Small Description about new added resource edit this line
+Edit this line with Small Description about new added resource 
 
-Link: www.linkToResource - edit to resource link
+Link: www.linkToResource
 
 #### Checklist:
 
